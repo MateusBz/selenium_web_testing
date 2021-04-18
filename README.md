@@ -1,5 +1,5 @@
 # Selenium Web Testing
-<<<<<<< HEAD
+
 This repository contains my test cases and scripts for learning selenium in automated tests.
 
 All tests were carried out on the 'The Internet ver. 0.58.0 ' 
