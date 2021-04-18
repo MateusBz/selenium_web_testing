@@ -1,0 +1,457 @@
+1618666665133	geckodriver	INFO	Listening on 127.0.0.1:34239
+1618666666132	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOK0hfH"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618666668842	Marionette	INFO	Listening on port 43083
+1618666668992	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618666679569	Marionette	INFO	Stopped listening on port 43083
+1618666853963	geckodriver	INFO	Listening on 127.0.0.1:32861
+1618666853968	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXhKPfw"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618666856563	Marionette	INFO	Listening on port 45883
+1618666856631	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618666863643	Marionette	INFO	Stopped listening on port 45883
+1618666958193	geckodriver	INFO	Listening on 127.0.0.1:48453
+1618666958227	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel1Ayvh"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618666960929	Marionette	INFO	Listening on port 38055
+1618666960969	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618666968946	Marionette	INFO	Stopped listening on port 38055
+1618667283435	geckodriver	INFO	Listening on 127.0.0.1:56529
+1618667283458	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNd6key"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618667286172	Marionette	INFO	Listening on port 37369
+1618667286281	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618667294771	Marionette	INFO	Stopped listening on port 37369
+1618669712056	geckodriver	INFO	Listening on 127.0.0.1:45259
+1618669712067	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenv2evi"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618669714787	Marionette	INFO	Listening on port 32803
+1618669714892	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618669717331	Marionette	INFO	Stopped listening on port 32803
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618670091133	geckodriver	INFO	Listening on 127.0.0.1:35211
+1618670092143	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSVdtOy"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618670094945	Marionette	INFO	Listening on port 40109
+1618670094980	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618670102696	Marionette	INFO	Stopped listening on port 40109
+1618670360590	geckodriver	INFO	Listening on 127.0.0.1:43727
+1618670360595	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUxCUAo"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618670363470	Marionette	INFO	Listening on port 38325
+1618670363520	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618670366267	Marionette	INFO	Stopped listening on port 38325
+1618676522479	geckodriver	INFO	Listening on 127.0.0.1:57397
+1618676523481	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilet7mldT"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618676526637	Marionette	INFO	Listening on port 43355
+1618676526716	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618676534633	Marionette	INFO	Stopped listening on port 43355
+1618676580295	geckodriver	INFO	Listening on 127.0.0.1:35599
+1618676580300	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCm4OvH"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618676582916	Marionette	INFO	Listening on port 46121
+1618676583020	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618676591042	Marionette	INFO	Stopped listening on port 46121
+1618676731702	geckodriver	INFO	Listening on 127.0.0.1:41511
+1618676731706	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNJRh8J"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618676734374	Marionette	INFO	Listening on port 41005
+1618676734439	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618676742494	Marionette	INFO	Stopped listening on port 41005
+1618676766086	geckodriver	INFO	Listening on 127.0.0.1:39679
+1618676766091	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSaWmXS"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618676768731	Marionette	INFO	Listening on port 41639
+1618676768816	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618676777145	Marionette	INFO	Stopped listening on port 41639
+1618677001374	geckodriver	INFO	Listening on 127.0.0.1:39573
+1618677001379	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2KRFkt"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618677004145	Marionette	INFO	Listening on port 42945
+1618677004205	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618677006973	Marionette	INFO	Stopped listening on port 42945
+1618677094480	geckodriver	INFO	Listening on 127.0.0.1:60449
+1618677094485	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegJ0NlH"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618677097149	Marionette	INFO	Listening on port 40455
+1618677097219	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618677100205	Marionette	INFO	Stopped listening on port 40455
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618677118222	geckodriver	INFO	Listening on 127.0.0.1:43391
+1618677119230	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFN8Bh8"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618677121814	Marionette	INFO	Listening on port 46833
+1618677121912	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618677208639	Marionette	INFO	Stopped listening on port 46833
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618677486207	geckodriver	INFO	Listening on 127.0.0.1:41931
+1618677486211	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileae6lWb"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618677488862	Marionette	INFO	Listening on port 46491
+1618677488935	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618677515174	geckodriver	INFO	Listening on 127.0.0.1:43001
+1618677515179	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9GrOzX"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618677517893	Marionette	INFO	Listening on port 34833
+1618677518009	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618677520740	Marionette	INFO	Stopped listening on port 34833
+1618677580956	geckodriver	INFO	Listening on 127.0.0.1:34981
+1618677580962	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWAk5yl"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618677583599	Marionette	INFO	Listening on port 38207
+1618677583688	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618677586379	Marionette	INFO	Stopped listening on port 38207
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.info: MINT: main/search-config update being skipped
+1618677760911	geckodriver	INFO	Listening on 127.0.0.1:53589
+1618677760916	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileY1pKoX"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618677763783	Marionette	INFO	Listening on port 39797
+1618677763873	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618677766953	Marionette	INFO	Stopped listening on port 39797
+1618677785917	geckodriver	INFO	Listening on 127.0.0.1:47383
+1618677786926	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXrJGoY"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618677789538	Marionette	INFO	Listening on port 36583
+1618677789656	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618677792603	Marionette	INFO	Stopped listening on port 36583
+1618677831062	geckodriver	INFO	Listening on 127.0.0.1:36103
+1618677832068	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFTFEqL"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618677834758	Marionette	INFO	Listening on port 41351
+1618677834795	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618677837651	Marionette	INFO	Stopped listening on port 41351
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 99: Error: Connection closed, pending request to server0.conn0.child3/domnode96, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:288:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:101:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:93:10
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:99:31
+process@resource://gre/modules/Promise-backend.js:961:38
+walkerLoop@resource://gre/modules/Promise-backend.js:845:29
+Promise*scheduleWalkerLoop@resource://gre/modules/Promise-backend.js:775:19
+schedulePromise@resource://gre/modules/Promise-backend.js:809:12
+completePromise@resource://gre/modules/Promise-backend.js:741:12
+
+1618677868104	Marionette	INFO	Stopped listening on port 46491
+1618678004788	geckodriver	INFO	Listening on 127.0.0.1:32873
+1618678004794	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMj3M5Y"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618678007461	Marionette	INFO	Listening on port 44451
+1618678007531	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618678010292	Marionette	INFO	Stopped listening on port 44451
+1618678023259	geckodriver	INFO	Listening on 127.0.0.1:51455
+1618678023264	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexIsUrk"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618678025951	Marionette	INFO	Listening on port 42243
+1618678026010	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618678028763	Marionette	INFO	Stopped listening on port 42243
+1618678618261	geckodriver	INFO	Listening on 127.0.0.1:58275
+1618678619269	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQXCn69"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618678621893	Marionette	INFO	Listening on port 45169
+1618678621996	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618678624667	Marionette	INFO	Stopped listening on port 45169
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618678644082	geckodriver	INFO	Listening on 127.0.0.1:40577
+1618678644087	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1rDa7o"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618678646733	Marionette	INFO	Listening on port 37583
+1618678646836	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618678649443	Marionette	INFO	Stopped listening on port 37583
+1618678708666	geckodriver	INFO	Listening on 127.0.0.1:55545
+1618678708672	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAG2olg"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618678711334	Marionette	INFO	Listening on port 38079
+1618678711399	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618678714356	Marionette	INFO	Stopped listening on port 38079
+1618678771192	geckodriver	INFO	Listening on 127.0.0.1:34719
+1618678771197	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRrC2Pw"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618678773872	Marionette	INFO	Listening on port 43851
+1618678773922	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618678779608	Marionette	INFO	Stopped listening on port 43851
+1618678890373	geckodriver	INFO	Listening on 127.0.0.1:49561
+1618678890391	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRk1Xq8"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618678893202	Marionette	INFO	Listening on port 45977
+1618678893318	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618678896016	Marionette	INFO	Stopped listening on port 45977
+1618678908230	geckodriver	INFO	Listening on 127.0.0.1:39833
+1618678908235	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV9cAAa"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618678911067	Marionette	INFO	Listening on port 37403
+1618678911156	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618678913779	Marionette	INFO	Stopped listening on port 37403
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1618679028984	geckodriver	INFO	Listening on 127.0.0.1:36927
+1618679029992	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefaxy8u"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618679033117	Marionette	INFO	Listening on port 38521
+1618679033228	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618679036118	Marionette	INFO	Stopped listening on port 38521
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618679281863	geckodriver	INFO	Listening on 127.0.0.1:55059
+1618679281868	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexiALaT"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618679284559	Marionette	INFO	Listening on port 41369
+1618679284609	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618679287357	Marionette	INFO	Stopped listening on port 41369
+1618679301925	geckodriver	INFO	Listening on 127.0.0.1:58725
+1618679301930	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqQztor"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618679304639	Marionette	INFO	Listening on port 40829
+1618679304763	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618679307376	Marionette	INFO	Stopped listening on port 40829
+1618679360927	geckodriver	INFO	Listening on 127.0.0.1:39767
+1618679360932	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG5sxEq"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618679363776	Marionette	INFO	Listening on port 41335
+1618679363868	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618679366723	Marionette	INFO	Stopped listening on port 41335
+1618679838437	geckodriver	INFO	Listening on 127.0.0.1:34681
+1618679839446	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewbp0nP"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618679842195	Marionette	INFO	Listening on port 34403
+1618679842276	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618679845083	Marionette	INFO	Stopped listening on port 34403
+1618733505477	geckodriver	INFO	Listening on 127.0.0.1:33523
+1618733506477	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKxYpLt"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618733509309	Marionette	INFO	Listening on port 37469
+1618733509403	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618733512314	Marionette	INFO	Stopped listening on port 37469
+1618733513019	geckodriver	INFO	Listening on 127.0.0.1:35873
+1618733514025	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekSxQRE"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618733517096	Marionette	INFO	Listening on port 35225
+1618733517152	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618733520136	Marionette	INFO	Stopped listening on port 35225
+1618733764757	geckodriver	INFO	Listening on 127.0.0.1:44627
+1618733764762	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8hJ7LE"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618733767683	Marionette	INFO	Listening on port 38111
+1618733767799	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618733770493	Marionette	INFO	Stopped listening on port 38111
+1618733771294	geckodriver	INFO	Listening on 127.0.0.1:35569
+1618733772303	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDV3auT"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618733775330	Marionette	INFO	Listening on port 45363
+1618733775435	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618733778151	Marionette	INFO	Stopped listening on port 45363
+1618734210298	geckodriver	INFO	Listening on 127.0.0.1:38523
+1618734210303	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileh0Tx02"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618734212936	Marionette	INFO	Listening on port 34991
+1618734213039	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618734215812	Marionette	INFO	Stopped listening on port 34991
+1618734216458	geckodriver	INFO	Listening on 127.0.0.1:50175
+1618734217463	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletraVuF"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618734220481	Marionette	INFO	Listening on port 39179
+1618734220596	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618734223213	Marionette	INFO	Stopped listening on port 39179
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618734236161	geckodriver	INFO	Listening on 127.0.0.1:37161
+1618734236167	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileunYa2k"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618734238993	Marionette	INFO	Listening on port 38123
+1618734239114	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618734241653	Marionette	INFO	Stopped listening on port 38123
+1618734243030	geckodriver	INFO	Listening on 127.0.0.1:58193
+1618734244038	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeukg5c"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1618734247014	Marionette	INFO	Listening on port 41797
+1618734247070	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618734249512	Marionette	INFO	Stopped listening on port 41797
