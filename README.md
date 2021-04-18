@@ -1,5 +1,7 @@
-#Selenium Web Testing
-This repository contains my test cases and scripts for learning selenium in automated tests. 
+# Selenium Web Testing
+This repository contains my test cases and scripts for learning selenium in automated tests.
+
+All tests were carried out on the 'The Internet ver. 0.58.0 ' 
 
 In each folder there are test cases in xml format to be imported into TestLink and test cases in xls format.
 
