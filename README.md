@@ -1,4 +1,5 @@
-#Selenium Web Testing
+# Selenium Web Testing
+
 This repository contains my test cases and scripts for learning selenium in automated tests. 
 
 In each folder there are test cases in xml format to be imported into TestLink and test cases in xls format.
