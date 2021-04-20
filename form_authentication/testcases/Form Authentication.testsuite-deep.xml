@@ -4,7 +4,7 @@
 <details><![CDATA[<p>The test suite contains test cases for forms authentication.</p>
 ]]></details> 
 
-<testcase internalid="10" name="Log in with a valid username and password.">
+<testcase internalid="10" name="Logging in with a valid username and password.">
 	<node_order><![CDATA[1000]]></node_order>
 	<externalid><![CDATA[1]]></externalid>
 	<fullexternalid><![CDATA[SWT-1]]></fullexternalid>
@@ -52,7 +52,7 @@
 	<step_number><![CDATA[4]]></step_number>
 	<actions><![CDATA[<p>Click on &#39;Login&#39; button.</p>
 ]]></actions>
-	<expectedresults><![CDATA[<p>Login should be successed and navigate to secure area.</p>
+	<expectedresults><![CDATA[<p>Login shouldn&#39;t be successes and it should show an error message.</p>
 ]]></expectedresults>
 	<execution_type><![CDATA[2]]></execution_type>
 </step>
@@ -73,7 +73,7 @@
 	</requirements>
 </testcase>
 
-<testcase internalid="26" name="Log in without a  username and with a valid password.">
+<testcase internalid="26" name="Logging in without a  username and with a valid password.">
 	<node_order><![CDATA[1000]]></node_order>
 	<externalid><![CDATA[2]]></externalid>
 	<fullexternalid><![CDATA[SWT-2]]></fullexternalid>
@@ -112,7 +112,7 @@
 	<step_number><![CDATA[3]]></step_number>
 	<actions><![CDATA[<p>Click on &#39;Login&#39; button.</p>
 ]]></actions>
-	<expectedresults><![CDATA[<p>Login should be successed and navigate to secure area.</p>
+	<expectedresults><![CDATA[<p>Login shouldn&#39;t be successes and it should show an error message.</p>
 ]]></expectedresults>
 	<execution_type><![CDATA[2]]></execution_type>
 </step>
@@ -133,7 +133,7 @@
 	</requirements>
 </testcase>
 
-<testcase internalid="37" name="Log in with a valid username and without  password.">
+<testcase internalid="37" name="Logging in with a valid username and without  password.">
 	<node_order><![CDATA[1000]]></node_order>
 	<externalid><![CDATA[3]]></externalid>
 	<fullexternalid><![CDATA[SWT-3]]></fullexternalid>
@@ -172,7 +172,7 @@
 	<step_number><![CDATA[3]]></step_number>
 	<actions><![CDATA[<p>Click on &#39;Login&#39; button.</p>
 ]]></actions>
-	<expectedresults><![CDATA[<p>Login should be successed and navigate to secure area.</p>
+	<expectedresults><![CDATA[<p>Login shouldn&#39;t be successes and it should show an error message.</p>
 ]]></expectedresults>
 	<execution_type><![CDATA[2]]></execution_type>
 </step>
