@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite id="52" name="Dropdown list" >
+<node_order><![CDATA[2]]></node_order>
+<details><![CDATA[]]></details> 
+
+<testcase internalid="58" name="Dropdown list option 2">
+	<node_order><![CDATA[0]]></node_order>
+	<externalid><![CDATA[5]]></externalid>
+	<fullexternalid><![CDATA[SWT-5]]></fullexternalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[]]></summary>
+	<preconditions><![CDATA[<p>1. The user should be connected to the Internet.</p>
+]]></preconditions>
+	<execution_type><![CDATA[2]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>1. Open &quot;<a href="https://the-internet.herokuapp.com/dropdown" style="color:#000080; text-decoration:underline">https://the-internet.herokuapp.com/dropdown</a>&quot;</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>1. The website should be opened.</p>
+]]></expectedresults>
+	<execution_type><![CDATA[2]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[2]]></step_number>
+	<actions><![CDATA[<p>2. Click on dropdown list.</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>2. The drop-down list should contain options to choose from.</p>
+]]></expectedresults>
+	<execution_type><![CDATA[2]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[3]]></step_number>
+	<actions><![CDATA[<p>3. Select &#39;Option 2&#39;</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>3. &bdquo;Option 2&rdquo; should be available.</p>
+]]></expectedresults>
+	<execution_type><![CDATA[2]]></execution_type>
+</step>
+</steps>
+<custom_fields>
+			<custom_field>
+			<name><![CDATA[Test Data/Input]]></name>
+			<value><![CDATA[]]></value>
+			</custom_field>
+		</custom_fields>
+</testcase>
+
+<testcase internalid="53" name="Dropdown list option  1">
+	<node_order><![CDATA[1]]></node_order>
+	<externalid><![CDATA[4]]></externalid>
+	<fullexternalid><![CDATA[SWT-4]]></fullexternalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[]]></summary>
+	<preconditions><![CDATA[<p>1. The user should be connected to the Internet.</p>
+]]></preconditions>
+	<execution_type><![CDATA[2]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>1. Open &quot;<a href="https://the-internet.herokuapp.com/dropdown" style="color:#000080; text-decoration:underline">https://the-internet.herokuapp.com/dropdown</a>&quot;</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>1. The website should be opened.</p>
+]]></expectedresults>
+	<execution_type><![CDATA[2]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[2]]></step_number>
+	<actions><![CDATA[<p>2. Click on dropdown list.</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>2. The drop-down list should contain options to choose from.</p>
+]]></expectedresults>
+	<execution_type><![CDATA[2]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[3]]></step_number>
+	<actions><![CDATA[<p>3. Select &#39;Option 1&#39;</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>3. &bdquo;Option 1&rdquo; should be available.</p>
+]]></expectedresults>
+	<execution_type><![CDATA[2]]></execution_type>
+</step>
+</steps>
+<custom_fields>
+			<custom_field>
+			<name><![CDATA[Test Data/Input]]></name>
+			<value><![CDATA[]]></value>
+			</custom_field>
+		</custom_fields>
+</testcase>
+</testsuite>
