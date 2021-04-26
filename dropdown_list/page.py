@@ -2,7 +2,7 @@ from selenium.webdriver.support.select import Select
 from selenium.webdriver.common.by import By
 
 
-class Dropdown_Page():
+class DropdownPage():
     def __init__(self, driver) -> None:
         self.driver = driver
 

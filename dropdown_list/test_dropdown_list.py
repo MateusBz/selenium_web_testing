@@ -1,7 +1,7 @@
 import pytest
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
-from page import Dropdown_Page
+from page import DropdownPage
 
 
 @pytest.fixture
