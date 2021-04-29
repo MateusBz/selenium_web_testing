@@ -1,4 +1,5 @@
 import pytest
+import os
 from selenium import webdriver
 
 from pages.login_page import Login
@@ -8,9 +9,11 @@ from pages.login_error_page import Login_Error
 
 @pytest.fixture
 def setup() -> None:
-    driver = webdriver.Firefox(executable_path='../geckodriver')
-
-    driver.implicitly_wait(5)
+    caps = {'browserName': os.getenv('BROWSER', 'firefox')}
+    driver = webdriver.Remote(
+        command_executor='http://localhost:4444/wd/hub',
+        desired_capabilities=caps
+    )
 
     yield driver
 
