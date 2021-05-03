@@ -2,17 +2,17 @@ version: '3.8'
 
 services: 
     hub:
-        image: selenium/hub:3.141.59
+        image: selenium/hub:latest
         ports: 
             - 4444:4444
     chrome:
-        image: selenium/node-chrome:3.141.59
+        image: selenium/node-chrome:latest
         depends_on: 
             - hub
         environment: 
             - HUB_HOST=hub
     firefox:
-        image: selenium/node-firefox:3.141.59
+        image: selenium/node-firefox:latest
         depends_on: 
             - hub
         environment: 
