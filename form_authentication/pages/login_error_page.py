@@ -1,7 +1,7 @@
 from selenium.webdriver.common.by import By
 
 
-class Login_Error():
+class LoginError():
     def __init__(self, driver) -> None:
         self.driver = driver
         self.flash_locator = 'flash'
