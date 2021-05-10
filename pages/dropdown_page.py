@@ -4,6 +4,7 @@ from pages.base_page import BasePage
 
 
 class DropdownPage(BasePage):
+
     def __init__(self, driver) -> None:
         self.dropdown_list_locator = 'dropdown'
         self.option_visible_text = 'Option 1'
