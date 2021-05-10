@@ -1,20 +1,15 @@
 import pytest
-from decouple import config
-from dropdown_list.page import DropdownPage
-
-main_site = config('SITE_ADDRESS')
+from pages.dropdown_page import DropdownPage
 
 
 def test_dropdown_option_1(setup):
-    page = setup
-    page.get(main_site + '/dropdown')
-    dropdown_list = DropdownPage(page)
-    assert dropdown_list.select() == 'Option 1'
+    page = DropdownPage(setup)
+    page.open('dropdown')
+    assert page.select() == 'Option 1'
 
 
 def test_dropdown_option_2(setup):
-    page = setup
-    page.get(main_site + '/dropdown')
-    dropdown_list = DropdownPage(page)
-    dropdown_list.option_visible_text = 'Option 2'
-    assert dropdown_list.select() == 'Option 2'
+    page = DropdownPage(setup)
+    page.open('dropdown')
+    page.option_visible_text = 'Option 2'
+    assert page.select() == 'Option 2'
