@@ -10,6 +10,7 @@ flake8 = "*"
 selenium = "*"
 pytest = "*"
 pytest-xdist = "*"
+python-decouple = "*"
 
 [requires]
 python_version = "3.8"
