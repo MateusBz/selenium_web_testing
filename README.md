@@ -24,9 +24,11 @@ In each folder there are test cases in xml format to be imported into TestLink a
 - Pytest
 
 ## Setup
-1. Clone repository
+1. Clone repository and got to 'selenium_web_testing' folder
 ```
-https://github.com/MateusBz/selenium_web_testing
+ git clone https://github.com/MateusBz/selenium_web_testing
+
+ cd selenium_web_testing/
 ```
 2. Install pipenv if you don't have one
 ```
